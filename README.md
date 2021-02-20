@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-  I am Darsh Mistry I am working as a DevOps Enginner..
+I'm Darshan Mistry. For the last 14 months, I have been a DevOps Engineer at Borndigital. Managing AWS, GCP, and manages all servers deploy in the company with good network handling. I have worked closely with my project manager and other seniors and build some key relationships. I have completed a professional DevOps course from IBM and I get a certificate from IBM. I have done some courses from udemy so it will help me with my works. Altho I love my current experience, I feel I'm now ready for a more challenging assignment and this position excites me.
+
 <!--
 **1111darsh/1111darsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
